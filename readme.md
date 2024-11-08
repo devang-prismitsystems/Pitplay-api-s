@@ -361,6 +361,9 @@
 ### 3. getAllEmailPatterns
 - **Old Route**: `/api/app/email/getEmailPatternList`
 - **New Route**: `/emailpattern/list`
+### 4. createEmailPatterns
+- **Old Route**: `/api/app/email/createEmailPattern`
+- **New Route**: `/emailpattern/create`
 
 ### Pages
 
@@ -375,6 +378,10 @@
 ### 3. getAllPages
 - **Old Route**: `/api/app/page/getAllpage`
 - **New Route**: `/pages/getallpages`
+
+### getAdminlogin
+- **Old Route**: `/api/app/user/getadminlogin`
+- **New Route**: `/user/getadminlogin`
 
  
 
